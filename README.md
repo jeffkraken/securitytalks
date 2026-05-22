@@ -17,10 +17,10 @@ Each folder is named after the event and year. If a talk was done at multiple, i
   - Directory includes: slides used and links to recordings (yes there are differences between them. Most of this is improv.)
   - Delivered at: BsidesKC 2025, BsidesKnox 2025, BsidesDSM2025, and CyberLabCon2025
  
-- `DNS Servers + Interrupting Cybercrime` (TO BE RELEASED)
+- `DNS Servers + Interrupting Cybercrime`
   - *Covers DNS Basics, Cybercrime Awareness, and a look into how they mesh as well as what we can do*
-  - Directory WILL include: Slides and links to recording (once its available).
-  - TO BE DELIVERED AT: BsidesKnox2025
+  - Directory WILL include: Slides (and links to recording once its available).
+  - Delivered at: BsidesKnox2025
 
 ## License
 
