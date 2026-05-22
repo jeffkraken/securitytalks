@@ -17,10 +17,10 @@ Each folder is named after the event and year. If a talk was done at multiple, i
   - Directory includes: slides used and links to recordings (yes there are differences between them. Most of this is improv.)
   - Delivered at: BsidesKC 2025, BsidesKnox 2025, BsidesDSM2025, and CyberLabCon2025
  
-- `Domains + Daemons` (TO BE RELEASED)
-  - *Covers hacking AD, protecting AD, and a free D&D-like zinequest*
-  - Directory WILL include: slides, digi-download of base zine, and links to recordings (if available).
-  - TO BE DELIVERED AT: CornCon25
+- `DNS Servers + Interrupting Cybercrime` (TO BE RELEASED)
+  - *Covers DNS Basics, Cybercrime Awareness, and a look into how they mesh as well as what we can do*
+  - Directory WILL include: Slides and links to recording (once its available).
+  - TO BE DELIVERED AT: BsidesKnox2025
 
 ## License
 
